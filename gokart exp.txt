@@ -1,0 +1,199 @@
+ok good morning sir ,
+
+--------------INTRODUCTION---------------
+my self chetan salunke 19BME1095 from ME-2/A 
+and our project is electric go-kart
+we have total 4 members in our group 
+first one me , harshit, saurabh, divesh
+sir can we start with ppt
+
+------------------INDEX-------------------
+so first we start with INDEX (EXplain Index page)
+1) introduction- in intoduction part we study how first
+gokart was start who manage the gokart event in india
+and all that stuff
+2) Application of go kart - in application we study different
+types of gokart applications what is the advantage and 
+disvantage of gokart
+3)frame design - in frame design we study different types of
+frame design and waht type of design we used in our prject
+4)steering system- in sterring system we study how steering 
+system works
+5)braking system - in breaking system we study different types
+of braking system
+6) battery - in battery we application of battery and there
+types
+7)speed controller - in speed controller we study the importance 
+of speed controller and ther application
+8)motor - in  motor we study the application of motor
+9)wheels - in wheels we study different types of wheels 
+and ther applications.
+10)manufacturing rules - in manufacturing rules we study
+the standard rules that we follwed in our project
+11) and final is safety - study about safety instrument 
+
+
+-------------------TOPICS-----------------
+1) Introduction - As we all know that the The Go-Kart is a 
+vehicle which is simple, lightweight and compact and easy 
+to operate.
+
+a)The go-kart is specially designed for racing and has very
+low ground clearance when compared to other vehicles
+
+b)The common parts of go-kart are engine, wheels, steering, 
+tyres, axle and chassis. No suspension can be mounted to 
+go-kart due to its low ground clearance.
+
+c) and the first company who held the first competition 
+in india is The JK Tyre National Karting 1997 
+---------------------------------------------
+2) Methodology - Methodology is that how we start our 
+project work step by step
+first we done with CAD design and (EXPLAIN ALL POINTs)
+---------------------------------------------
+3) Prototype - Prototype is that how to start out project 
+in first week we took the refference from our seniours and 
+read lot of research papers and finally we made our protoype
+---------------------------------------------
+4)Application of Electric Car/ gokart
+
+a)The first known electric car was built by chemist RobertScotland
+in 1837—48
+ 
+b)Benefits of Electrical Transportation Reduced Pollution
+Cost Savings, Economic Growth
+---------------------------------------------
+5) Frame design - the first img is from CAD modeling and
+second img is Hand sketch, in frame we know that the frame
+design in a main role play in gokart 
+
+a)The chassis of go-kart is a skeleton frame made up of hollow
+pipes and other materials of different cross sections
+
+b)The chassis of go-kart must be stable with high torsional 
+rigidity, as well as it should have relatively high degree 
+of flexibility as there is no suspension
+
+c)The tube/rectangular pipe used in the fabrication of the 
+chassis or the other frames/supports may be seam or seamless
+Minimum cross section must be 1 inch (25.4mm), for pipe it 
+will be OD and for rectangular section or square section it 
+will be its minimum height
+-----------------------------------------------
+6)Testing and Calculations - our first priority is that 
+Keeping the frame as light as possible
+a) correct dimensions
+----------------------------------------------
+7)Impacts- here is tha table 
+what ae the impacts we the gokart was impact from front 
+side and back side from right and left side 
+----------------------------------------------
+8)Chassis - The chassis of a go-kart or also known as the 
+go-kart frame is like a foundation that attached to the a
+xles and holds the engine of the go-kart
+
+a)There are four types of chassis which are 
+caged, open, offset and straight chassis
+-----------------------------------------------
+9) Engine Mounting - Engine mounting is of flexible type 
+Any go kart engine can be mounted on the go kart, 
+irrespective of its size and power
+
+a)Most of the time, the chain length may vary due 
+to external factors such as temperature changes, 
+dragging of the chain or a loose sprocket
+
+b)During most of the test runs, the vehicle had the 
+problem of unwanted chain slagging. So to rectify this, 
+this mechanism was introduced. 
+----------------------------------------------
+10)Chain and Sprocket - 
+
+
+
+
+----------------------------------------------
+11)Steering System - 
+
+
+
+
+
+
+----------------------------------------------
+12) Braking System
+
+
+
+
+---------------------------------------------
+13)About Battery 
+
+
+
+---------------------------------------------
+14)Speed Controller - the most important device in gokart
+
+
+
+
+------------------------------------------------
+15)Electric motor- 
+
+
+
+
+
+
+------------------------------------------------
+16)Engines- 
+
+
+
+
+------------------------------------------------
+17)Wheels- 
+
+
+
+------------------------------------------------
+18) Fibre Parts- 
+
+
+
+
+-------------------------------------------------
+19) Manufacturing rules- most important part for a gokart 
+competition
+
+
+
+---------------------------------------------------
+20)Safety- 
+
+
+
+
+---------------------------------------------------
+21) Failure Modes - 
+
+
+
+
+----------------------------------------------------
+22) Approximate cost -
+
+
+
+---------------------------------------------------
+
+
+
+
+
+
+--------------------THANKS-------------------
+thank you sir this how we done our project and project
+and project report
+
